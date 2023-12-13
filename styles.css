@@ -1,0 +1,269 @@
+#Title{
+    color: #5C8374;
+    text-align: right;
+    font-family: 'Kanit', sans-serif;
+    background-color: #183D3D;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+#Title:hover{
+    transform: translateX(10px);
+}
+
+#Subtitle{
+    color: #5C8374;
+    text-align: right;
+    font-family: 'Kanit', sans-serif;
+    background-color: #183D3D;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#Subtitle:hover{
+    transform: translateX(10px);
+    
+}
+
+body{
+    background-color: #040D12;
+}
+
+.info{
+    color: #183D3D;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+.info:hover{
+    transform: translateY(-10px);
+    
+}
+
+
+#button1{
+    position: relative;
+    width: 200px;
+    padding: 15px 0px;
+    color: #93B1A6;
+    font-family: 'Kanit', sans-serif;
+    background: transparent;
+    text-align: center;
+    border: 2px solid #93B1A6;
+    overflow: hidden;
+    cursor: pointer;
+    margin: 20px 10px;
+    font-weight: bold;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#button1:hover{
+    transform: translateY(-10px);
+}
+
+.Title1{
+    color: #5C8374;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+.Title1:hover{
+    transform: translateY(10px);
+}
+
+
+#Subtitle1{
+    color: #5C8374;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+#Subtitle1:hover{
+    transform: translateY(10px);
+}
+
+#infoD{
+    font-family: 'Kanit', sans-serif;
+    color: #183D3D;
+}
+
+#Discordimg{
+    width: 370px;
+    height: 370px;
+    border: 5px solid;
+    border-color: #5C8374;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+} 
+
+#body1{
+    background-image: url('CrystalStudiosBG.png');
+}
+
+#Discordimg:hover{
+    transform: translateY(-10px);
+    
+    
+}
+
+
+.credits{
+    text-align: center;
+    margin: 20px 20px;
+}
+
+
+.infobg{
+    background-clip: #93B1A6;
+    color: #183D3D;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+.infobg:hover{
+    transform: translateY(-10px);
+    
+}
+
+
+header{
+    background-color: #232D3F;
+}
+
+#button_c{
+    display: inline-block;
+    transform: translateY(-30px);
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+#games:hover{
+    transform: translateY(-10px);
+}
+#games{
+    background-image: url('games_icon.png');
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    background-position: center;
+    background-size: center;
+    align-items: center;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s
+}
+#credits{
+    background-image: url('credits_icon.png');
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    background-position: center;
+    background-size: center;
+    align-items: center;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s
+}
+#credits:hover{
+    transform: translateY(-10px);
+}
+#Return_Back_Credits{
+    color: #fff;
+    text-decoration  none
+}
+
+#button1:hover{
+    color: black;
+    background-color: white;
+}
+
+.info:hover{
+    color: white;
+}
+
+.card_button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s
+}
+
+.card_button:hover{
+    background-color: gray;
+}
+footer{
+    font-family: 'Kanit', Sans-Serif;
+    background-color: #232D3F;
+}
+.Title2{
+    color: #5C8374;
+    font-family: 'Kanit', sans-serif;
+    transition-property: transform;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+
+.Title2:hover{
+    transform: translateY(10px);
+}
+
+.games_img{
+    border-radius: 30px;
+    border-color: #232D3F;
+    border: 2px solid;
+}
+
+#discord{
+    align-items: center;
+    text-align: right;
+    align-content: center;
+    transform: translateY(0px);
+}
+#youtube{
+    align-items: center;
+    text-align: right;
+    align-content: center;
+    transform: translateY(0px);
+}
