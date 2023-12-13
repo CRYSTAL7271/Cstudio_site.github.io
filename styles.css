@@ -259,7 +259,7 @@ footer{
     align-items: center;
     text-align: right;
     align-content: center;
-    transform: translateY(0px);
+    transform: translateY(20px);
 }
 #youtube{
     align-items: center;
